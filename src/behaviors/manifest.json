@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Darwin",
+    "description": "Entity spawn & Genetic Algorithm",
+    "uuid": "5a298b06-e654-42ff-903a-c06c148b7b87",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for Darwin",
+      "type": "client_data",
+      "uuid": "2301ac19-064f-4c7f-9327-a522a3c4e9d6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

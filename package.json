@@ -1,0 +1,13 @@
+{
+  "name": "darwin",
+  "private": "true",
+  "scripts": {
+    "build": "gulp build",
+    "watch": "gulp watch",
+    "installmod": "gulp install",
+    "uninstallmod": "gulp uninstall"
+  },
+  "devDependencies": {
+    "minecraft-scripting-toolchain": "^0.1.0"
+  }
+}
